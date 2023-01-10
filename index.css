@@ -1,0 +1,46 @@
+.container{
+    margin-top: 100px;
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    justify-items: center;
+}
+
+h1{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 200;
+}
+
+h2{
+    margin-top: 35px;
+    font-size: 40px;
+}
+
+p{
+    margin-top: 40px;
+    font-family:"constantia" serif;
+}
+
+h3{
+    margin-top: 35px;
+    color: rgb(12, 88, 24);
+    font-size: 45px;
+}
+
+button{
+    font-size: 20px;
+    background-color: rgb(12, 88, 24);
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 45px;
+    border: 10px;
+}
+
+img{
+    width: 360px;
+    height: 500px;
+}
+
